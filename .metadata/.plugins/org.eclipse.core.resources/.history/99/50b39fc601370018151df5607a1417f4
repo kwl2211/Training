@@ -1,0 +1,5 @@
+package bootsample.service;
+
+public class TaskService {
+
+}

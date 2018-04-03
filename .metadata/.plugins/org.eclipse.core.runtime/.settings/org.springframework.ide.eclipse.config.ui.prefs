@@ -1,0 +1,4 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/002_SpringMVCFormExample/WebContent/WEB-INF/springform-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/004_SpringMVC_Hibernate/WebContent/WEB-INF/springhibernate-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/016_Spring_hibernate/WebContent/WEB-INF/springHibernate-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

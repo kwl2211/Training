@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="007_SpringBoot_thymeleaf">
+        <property name="context-root" value="007_SpringBoot_thymeleaf"/>
+        <property name="java-output-path" value="/007_SpringBoot_thymeleaf/target/classes"/>
+    </wb-module>
+</project-modules>

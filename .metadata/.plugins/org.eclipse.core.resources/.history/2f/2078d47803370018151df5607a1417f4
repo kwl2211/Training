@@ -1,0 +1,26 @@
+package bootsample.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Service;
+
+import bootsample.model.Task;
+import springboot.dao.TaskRepository;
+
+@Service
+@Transactional
+public class TaskService {
+private final TaskRepository taskRepo;
+
+public TaskService(TaskRepository taskRepo) {
+	super();
+	this.taskRepo = taskRepo;
+}
+public List<Task> findAll()
+{
+	List<Task> tasks=new ArrayList<Task>();
+	}
+}

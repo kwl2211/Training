@@ -1,0 +1,14 @@
+package com.springboot.main;
+
+import org.springframework.boot.SpringApplication;
+
+import com.springboot.mysql.controller.SpringMainApp;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 SpringApplication.run(SpringMainApp.class, args);
+	}
+
+}

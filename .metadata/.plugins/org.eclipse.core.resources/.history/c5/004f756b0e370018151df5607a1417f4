@@ -1,0 +1,18 @@
+package bootsample.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SampleRestController {
+	@GetMapping("/")
+public String hello()
+{
+	return "HelloWorld";
+			}
+	@GetMapping("/findAll")
+	public String allTask()
+	{
+		return taskService.findAll().toString();
+	}
+}
